@@ -4,7 +4,7 @@ title: Sebastián Osorio's CV
 ---
 # Carlos Sebastián Osorio Parada
 
-A highly-skilled software engineer with excellent self-learning abilities, 5+ years of experience delivering scalable and high-quality web-applications used by millions of users. Possesses an extensive skill set, including 2+ years of experience working with distributed teams using English as principal language, high ownership, and attention to detail. Ready to make leverage decisions that generate meaningful impact team and organization wise.
+Highly-skilled software engineer with excellent self-learning abilities, 5+ years of experience delivering scalable and high-quality web-applications used by millions of users. Possesses an extensive skill set, including 2+ years of experience working with distributed teams using English as principal language, high ownership, and attention to detail. Ready to make leverage decisions that generate meaningful impact team and organization wise.
 
 Co-Creator of Foodie, an internal platform to reduce the food waste in Wizeline. Co-product owner, tech lead, and mentor of a 20+ on-training and newly hired engineers. 
 
@@ -19,20 +19,24 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 
 ## Experience 
 
-### Sr. Software Engineer at Skycatch, May 2019 - present
-- Key responsibilities
+`May 2019 - present` 
+__Sr. Software Engineer at Skycatch__, Guadalajara, Mex.
+
+- *Key responsibilities
     - Software engineer responsible for the new era 3D web platform.
     - Maintain communication with different teams across the globe, using English as the principal language. 
 - Key achievements 
     - Purposed and applied the GeoJSON spec in the codebase, removing duplication on code and standardizing the storage of geo-information. 
     - Created a script for documenting the interface of internal modules, saving 90% of the time for updating the documentation. 
 
-### Software Engineer at Wizeline, Jan 2017 - Apr 2019
-Key responsibilities: 
+`Jan 2017 - Apr 2019`
+__ Software Engineer at Wizeline__, Guadalajara, Mex. 
+
+**Key responsibilities**
 - Design and implement scalable technical solutions integrated towards a successful product delivery cycle in different client-facing projects. Using technologies such as NodeJS, Serverless, React, and Vue.
 - Maintain communication with different clients and teams across the globe, using English as the principal language. 
 
-Key achievements: 
+**Key achievements**
 
 - Created a module that reduced the code boilerplate while creating new interactions between a web-client and an API, improving the effectivity and velocity of new implementations. 
 - Implemented the bases of the hexagonal architecture to a Serverless-based project, removing over complexity, and enabling the platform to re-use logic among modules.
@@ -40,52 +44,64 @@ Key achievements:
 - Mentored +20 trainees and onboarding engineers. 
 - Lecturer of a Javascript academy for +120 people. 
 
-### FullStack Developer at Millenium studio, Jul 2016 - Dev 2016
-- Key responsibilities
+`Jul 2016 - Dev 2016` 
+__FullStack Developer at Millenium studio__, Guadalajara, Mexico.
+
+- **Key responsibilities**
     - Build the web application of a product that sells private gaming services. 
-- Key accomplishments 
+- **Key accomplishments**
     - Implementation of the recurrent payment system into the platform. 
 
-### FullStack Developer at City Drive, Jan 2016 - Jul 2017
-- Key responsibilities 
+`Jan 2016 - Jul 2017`
+__ FullStack Developer at City Drive__, Guadalajara, Mexico.
+- **Key responsibilities**
     - Built different internal tools to improve the new drivers training time.
     - Implementation of the third party payment integration. 
 
-### FullStack Developer at Tejuino, Jul 2015 - Dec 2015
-- Key responsibilities 
+`Jul 2015 - Dec 2015`
+__FullStack Developer at Tejuino__, Guadalajara, Mexico.
+- **Key responsibilities**
     - Plan, develop, and deploy pixel-perfect web Applications used to leverage the marketing of different companies.
 
-### FrontEnd Developer at USA Global Market, Oct 2015 - Apr 2016
-- Key responsibilities 
+`Oct 2015 - Apr 2016`
+__FrontEnd Developer at USA Global Market__, Bogotá, Colombia.
+- **Key responsibilities**
     - Responsible for creating the administration system and web application for a prepaid payment system delivered to the sewer and electric public services of Bogota and Medellin Colombia.
 
-### Co-founder and Principal Engineer at Bool. Inc, Jun 2014, Nov 2015
-- Key responsibilities
+`Jun 2014, Nov 2015`
+__Co-founder and Principal Engineer at Bool. Inc__, Bogotá, Colombia.
+- **Key responsibilities**
     - Analyze software requirements, build and deliver web and mobile solutions for different clients as the Colombian Government. 
 
-### Software Developer at Skaphe, Feb 2014 - Jun 2014
-- Key responsibilities 
-    - Build a web application to help a local customer locate their teams on-field and monitor the inventory each team used to execute their assigned tasks.
+`Feb 2014 - Jun 2014`
+__Software Developer at Skaphe__, Bogotá, Colombia.
+
+- **Key responsibilities**
+    - Build a FullStack web application to help a local customer locate their teams on-field and monitor the inventory each team used to execute their assigned tasks.
 
 
 ## Education 
 
-### Computer Science at University of the People, Nov 2017 - Present. Online - English 
+` Nov 2017 - Present` 
+__Computer Science at University of the People__, Online - English
 
-### Electronic Engineering at Universidad Distrital Francisco José de Caldas, Jan 2012 - Jul 2014. Bogotá, COL.
+`Jan 2012 - Jul 2014`
+__Electronic Engineering at Universidad Distrital Francisco José de Caldas__, Bogotá, COL
 
 
 ## Awards 
-### Honorable mention at Santo Domingo Sabio School, Nov 2011 
-Best score in the school at the “Saber 2011” national test.
 
-### Grand Order of the Founders Cross award. Acacias, Meta city, 2011.
-Golden shield category. "For his dedication and example in the development of academic activities". Decree No. 224 of 2011 Acacías, Meta. 
+`Dec 2011`
+__ Honorable mention at Santo Domingo Sabio School__. Best score in the school at the “Saber 2011” national test.
 
-### 2nd Place in XI Internal Programming Marathon at Universidad Distrital Francisco José de Caldas, Dec 2012.
+`Nov 2011`
+__ Grand Order of the Founders Cross award__. Golden shield category. "For his dedication and example in the development of academic activities". Decree No. 224 of 2011 Acacías, Meta.
 
-### 2nd Place in Space Apps Challenge Colombia, Nasa. Apr 2013.
+`Dec 2012`
+__2nd Place in XI Internal Programming Marathon__, Universidad Distrital Francisco José de Caldas.
 
+`Apr 2013` 
+__2nd Place__, Space Apps Challenge Colombia, NASA.
 
 ## Languages 
 
@@ -95,16 +111,17 @@ Golden shield category. "For his dedication and example in the development of ac
 
 ## Extra-curricular Activities 
 
-### Co-organizer at GDLJS, Apr 2017 - present 
+`Apr 2017 - present`
+__Co-organizer at GDLJS__, 
 
 GDLJS is the JavaScript open community in Guadalajara, Mexico. With monthly meetups is recognized as one of the biggest open events in the city with common assistance of more than 100 JavaScripters.
 
-- Key responsibilities
+- **Key responsibilities**
     - Coordinate the team to bring the monthly event, including choosing the meetup content, sync with the different sponsors, and verify the accomplishments of the recurrent tasks.  
     - Ideate new events to get more qualified knowledge of the Javascript. 
     - The host of the event. 
 
-- Key accomplishments
+- **Key accomplishments**
     - Launched the first event that joined the two most significant Javascript communities in Mexico, the EventLoop and the GDLJS in one place. Hosted in two locations with more than 250 attendees and the participation of recognized engineers in the industry. 
     - Help with the creation of GDLDevComms, the alliance of the city’s communities with the objective of grow the content delivered to the Guadalajara’s technology open communities. 
     - Developed with the GdlDevComms the PosaDev Conf 2017 - 2018, a free yearly one day conference covering general topics in the Technology field. 
