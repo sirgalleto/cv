@@ -1,91 +1,115 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sebastián Osorio's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Carlos Sebastián Osorio Parada
+
+A highly-skilled software engineer with excellent self-learning abilities, 5+ years of experience delivering scalable and high-quality web-applications used by millions of users. Possesses an extensive skill set, including 2+ years of experience working with distributed teams using English as principal language, high ownership, and attention to detail. Ready to make leverage decisions that generate meaningful impact team and organization wise.
+
+Co-Creator of Foodie, an internal platform to reduce the food waste in Wizeline. Co-product owner, tech lead, and mentor of a 20+ on-training and newly hired engineers. 
+
+Believer of public and free divulgation of knowledge, co-organized of GDLJS, the JavaScript community in Guadalajara that offers a free and open space to share knowledge about the programming language ecosystem.
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">svzosorio@gmail.com</a>
+| <a href="https://galleto.xyz">Personal page</a>
 </div>
 
 
-## Currently
+## Experience 
 
-Standing on the shoulders of giants
+### Sr. Software Engineer at Skycatch, May 2019 - present
+- Key responsibilities
+    - Software engineer responsible for the new era 3D web platform.
+    - Maintain communication with different teams across the globe, using English as the principal language. 
+- Key achievements 
+    - Purposed and applied the GeoJSON spec in the codebase, removing duplication on code and standardizing the storage of geo-information. 
+    - Created a script for documenting the interface of internal modules, saving 90% of the time for updating the documentation. 
 
-### Specialized in
+### Software Engineer at Wizeline, Jan 2017 - Apr 2019
+Key responsibilities: 
+- Design and implement scalable technical solutions integrated towards a successful product delivery cycle in different client-facing projects. Using technologies such as NodeJS, Serverless, React, and Vue.
+- Maintain communication with different clients and teams across the globe, using English as the principal language. 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Key achievements: 
 
+- Created a module that reduced the code boilerplate while creating new interactions between a web-client and an API, improving the effectivity and velocity of new implementations. 
+- Implemented the bases of the hexagonal architecture to a Serverless-based project, removing over complexity, and enabling the platform to re-use logic among modules.
+- Co-creator and tech lead of Foodie. An internal application to reduce food waste in the company while improves the overall experience around it.
+- Mentored +20 trainees and onboarding engineers. 
+- Lecturer of a Javascript academy for +120 people. 
 
-### Research interests
+### FullStack Developer at Millenium studio, Jul 2016 - Dev 2016
+- Key responsibilities
+    - Build the web application of a product that sells private gaming services. 
+- Key accomplishments 
+    - Implementation of the recurrent payment system into the platform. 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### FullStack Developer at City Drive, Jan 2016 - Jul 2017
+- Key responsibilities 
+    - Built different internal tools to improve the new drivers training time.
+    - Implementation of the third party payment integration. 
 
+### FullStack Developer at Tejuino, Jul 2015 - Dec 2015
+- Key responsibilities 
+    - Plan, develop, and deploy pixel-perfect web Applications used to leverage the marketing of different companies.
 
-## Education
+### FrontEnd Developer at USA Global Market, Oct 2015 - Apr 2016
+- Key responsibilities 
+    - Responsible for creating the administration system and web application for a prepaid payment system delivered to the sewer and electric public services of Bogota and Medellin Colombia.
 
-`1654-1660`
-__The King's School, Grantham.__
+### Co-founder and Principal Engineer at Bool. Inc, Jun 2014, Nov 2015
+- Key responsibilities
+    - Analyze software requirements, build and deliver web and mobile solutions for different clients as the Colombian Government. 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Software Developer at Skaphe, Feb 2014 - Jun 2014
+- Key responsibilities 
+    - Build a web application to help a local customer locate their teams on-field and monitor the inventory each team used to execute their assigned tasks.
 
 
-## Occupation
+## Education 
 
-`1600`
-__Royal Mint__, London
+### Computer Science at University of the People, Nov 2017 - Present. Online - English 
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Electronic Engineering at Universidad Distrital Francisco José de Caldas, Jan 2012 - Jul 2014. Bogotá, COL.
 
 
+## Awards 
+### Honorable mention at Santo Domingo Sabio School, Nov 2011 
+Best score in the school at the “Saber 2011” national test.
+
+### Grand Order of the Founders Cross award. Acacias, Meta city, 2011.
+Golden shield category. "For his dedication and example in the development of academic activities". Decree No. 224 of 2011 Acacías, Meta. 
+
+### 2nd Place in XI Internal Programming Marathon at Universidad Distrital Francisco José de Caldas, Dec 2012.
+
+### 2nd Place in Space Apps Challenge Colombia, Nasa. Apr 2013.
+
+
+## Languages 
+
+* Spanish, Native speaker. 
+* English, Very good command. 
+* Portuguese, Basic. 
+
+## Extra-curricular Activities 
+
+### Co-organizer at GDLJS, Apr 2017 - present 
+
+GDLJS is the JavaScript open community in Guadalajara, Mexico. With monthly meetups is recognized as one of the biggest open events in the city with common assistance of more than 100 JavaScripters.
+
+- Key responsibilities
+    - Coordinate the team to bring the monthly event, including choosing the meetup content, sync with the different sponsors, and verify the accomplishments of the recurrent tasks.  
+    - Ideate new events to get more qualified knowledge of the Javascript. 
+    - The host of the event. 
+
+- Key accomplishments
+    - Launched the first event that joined the two most significant Javascript communities in Mexico, the EventLoop and the GDLJS in one place. Hosted in two locations with more than 250 attendees and the participation of recognized engineers in the industry. 
+    - Help with the creation of GDLDevComms, the alliance of the city’s communities with the objective of grow the content delivered to the Guadalajara’s technology open communities. 
+    - Developed with the GdlDevComms the PosaDev Conf 2017 - 2018, a free yearly one day conference covering general topics in the Technology field. 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Last updated: October 2019 -->
 
