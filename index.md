@@ -19,7 +19,7 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 
 ## Experience 
 
-`May 2019 - present` 
+`May 2019 - Present` 
 __Sr. Software Engineer at Skycatch__, Guadalajara, Mex.
 
 - *Key responsibilities
