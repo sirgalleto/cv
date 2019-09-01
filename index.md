@@ -91,10 +91,10 @@ __Electronic Engineering at Universidad Distrital Francisco José de Caldas__, B
 ## Awards 
 
 `Dec 2011`
-__ Honorable mention at Santo Domingo Sabio School__. Best score in the school at the “Saber 2011” national test.
+__Honorable mention at Santo Domingo Sabio School__. Best score in the school at the “Saber 2011” national test.
 
 `Nov 2011`
-__ Grand Order of the Founders Cross award__. Golden shield category. "For his dedication and example in the development of academic activities". Decree No. 224 of 2011 Acacías, Meta.
+__Grand Order of the Founders Cross award__. Golden shield category. "For his dedication and example in the development of academic activities". Decree No. 224 of 2011 Acacías, Meta.
 
 `Dec 2012`
 __2nd Place in XI Internal Programming Marathon__, Universidad Distrital Francisco José de Caldas.
