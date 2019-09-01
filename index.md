@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Sebastián Osorio's CV
+title: Carlos Sebastián Osorio Parada's CV
 ---
 # Carlos Sebastián Osorio Parada
 
@@ -12,8 +12,7 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">svzosorio@gmail.com</a>
-| <a href="https://galleto.xyz">Personal page</a>
+    <a href="isaac@applesdofall.org">svzosorio@gmail.com</a> | <a href="https://galleto.xyz">Personal page</a> | <a href="https://github.com/sirgalleto">Github</a>
 </div>
 
 
