@@ -29,7 +29,7 @@ __Sr. Software Engineer at Skycatch__, Guadalajara, Mex.
     - Created a script for documenting the interface of internal modules, saving 90% of the time for updating the documentation. 
 
 `Jan 2017 - Apr 2019`
-__ Software Engineer at Wizeline__, Guadalajara, Mex. 
+__Software Engineer at Wizeline__, Guadalajara, Mex. 
 
 **Key responsibilities**
 - Design and implement scalable technical solutions integrated towards a successful product delivery cycle in different client-facing projects. Using technologies such as NodeJS, Serverless, React, and Vue.
@@ -52,7 +52,7 @@ __FullStack Developer at Millenium studio__, Guadalajara, Mexico.
     - Implementation of the recurrent payment system into the platform. 
 
 `Jan 2016 - Jul 2017`
-__ FullStack Developer at City Drive__, Guadalajara, Mexico.
+__FullStack Developer at City Drive__, Guadalajara, Mexico.
 - **Key responsibilities**
     - Built different internal tools to improve the new drivers training time.
     - Implementation of the third party payment integration. 
