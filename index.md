@@ -75,6 +75,9 @@ __Co-founder and Principal Engineer at [Bool. Inc](https://github.com/boolinc)__
 
 - _Key responsibilities_
     - Analyze software requirements, build and deliver web and mobile solutions for different clients as the Colombian Government. 
+    
+- _Key accomplishments_
+    - Co-creator of [BoolJS](https://github.com/BoolJS/booljs) An open-source Javascript framework to build APIs using MVC architecture. 
 
 `Feb 2014 - Jun 2014`
 __Software Developer at [Skaphe](http://www.skaphe.com/)__, Bogotá, Colombia.
