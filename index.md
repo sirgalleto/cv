@@ -21,21 +21,21 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 `May 2019 - Present` 
 __Sr. Software Engineer at Skycatch__, Guadalajara, Mex.
 
-**Key responsibilities**
+- **Key responsibilities**
     - Software engineer responsible for the full delivery process of the new era 3D web platform. Including planning across teams, code development of a FullStack solution, and release of development and production platform builds.  
     - Maintain communication with different teams across the globe, using English as the principal language. 
-**Key achievements**
+- **Key achievements**
     - Purposed and applied the GeoJSON spec in the codebase, removing duplication on code and standardizing the storage of geo-information. 
     - Created a script for documenting the interface of internal modules, saving 90% of the time for updating the documentation. 
 
 `Jan 2017 - Apr 2019`
 __Software Engineer at Wizeline__, Guadalajara, Mex. 
 
-**Key responsibilities**
+- **Key responsibilities**
     - Design and implement scalable technical solutions integrated towards a successful product delivery cycle in different client-facing projects. Using technologies such as NodeJS, Serverless, React, and Vue.
     - Maintain communication with different clients and teams across the globe, using English as the principal language. 
 
-**Key achievements**
+- **Key achievements**
     - Created a module that reduced the code boilerplate while creating new interactions between a web-client and an API, improving the effectivity and velocity of new implementations. 
     - Implemented the bases of the hexagonal architecture to a Serverless-based project, removing over complexity, and enabling the platform to re-use logic among modules.
     - Co-creator and tech lead of Foodie. An internal application to reduce food waste in the company while improves the overall experience around it.
@@ -45,36 +45,36 @@ __Software Engineer at Wizeline__, Guadalajara, Mex.
 `Jul 2016 - Dev 2016` 
 __FullStack Developer at Millenium studio__, Guadalajara, Mexico.
 
-**Key responsibilities**
+- **Key responsibilities**
     - Build the web application of a product that sells private gaming services. 
-**Key accomplishments**
+- **Key accomplishments**
     - Implementation of the recurrent payment system into the platform. 
 
 `Jan 2016 - Jul 2017`
 __FullStack Developer at City Drive__, Guadalajara, Mexico.
-**Key responsibilities**
+- **Key responsibilities**
     - Built different internal tools to improve the new drivers training time.
     - Implementation of the third party payment integration. 
 
 `Jul 2015 - Dec 2015`
 __FullStack Developer at Tejuino__, Guadalajara, Mexico.
-**Key responsibilities**
+- **Key responsibilities**
     - Plan, develop, and deploy pixel-perfect web Applications used to leverage the marketing of different companies.
 
 `Oct 2015 - Apr 2016`
-__FrontEnd Developer at USA Global Market__, Bogotá, Colombia.
+- __FrontEnd Developer at USA Global Market__, Bogotá, Colombia.
 **Key responsibilities**
     - Responsible for creating the administration system and web application for a prepaid payment system delivered to the sewer and electric public services of Bogota and Medellin Colombia.
 
 `Jun 2014, Nov 2015`
 __Co-founder and Principal Engineer at Bool. Inc__, Bogotá, Colombia.
-**Key responsibilities**
+- **Key responsibilities**
     - Analyze software requirements, build and deliver web and mobile solutions for different clients as the Colombian Government. 
 
 `Feb 2014 - Jun 2014`
 __Software Developer at Skaphe__, Bogotá, Colombia.
 
-**Key responsibilities**
+- **Key responsibilities**
     - Build a FullStack web application to help a local customer locate their teams on-field and monitor the inventory each team used to execute their assigned tasks.
 
 
