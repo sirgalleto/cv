@@ -3,6 +3,7 @@ layout: cv
 title: Carlos Sebastián Osorio Parada's CV
 ---
 # Carlos Sebastián Osorio Parada
+___
 
 A Highly-skilled software engineer with excellent self-learning abilities, and  5+ years of experience delivering scalable and high-quality web-applications used by millions of users. Possesses an extensive skill set, including 2+ years of experience working with distributed teams using English as principal language, high ownership, and attention to detail. Ready to make leverage decisions that generate meaningful impact team and organization wise.
 
@@ -103,9 +104,12 @@ __2nd Place__, Space Apps Challenge Colombia, NASA.
 
 ## Languages 
 
-* Spanish, Native speaker. 
-* English, Very good command. 
-* Portuguese, Basic. 
+`Spanish`
+__Native speaker__. 
+`English`
+__Very good command__. 
+`Portuguese` 
+__Basic__. 
 
 ## Extra-curricular Activities 
 
