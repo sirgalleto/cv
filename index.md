@@ -13,7 +13,7 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 
 
 <div id="webaddress">
-    <a href="isaac@applesdofall.org">svzosorio@gmail.com</a> | <a href="https://galleto.xyz">Personal page</a> | <a href="https://github.com/sirgalleto">Github</a>
+    <a href="isaac@applesdofall.org">svzosorio@gmail.com</a> | <a href="https://galleto.xyz">Personal page</a> | <a href="https://github.com/sirgalleto">Github</a> | <a href="https://galleto.xyz/cv/">Online CV</a>
 </div>
 
 
