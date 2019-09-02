@@ -22,21 +22,21 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 `May 2019 - Present` 
 __Sr. Software Engineer at [Skycatch](http://skycatch.com/)__, Guadalajara, Mex.
 
-- **Key responsibilities**
+- _Key responsibilities_
     - Software engineer responsible for the full delivery process of the new era 3D web platform. Including planning across teams, code development of a FullStack solution, and release of development and production platform builds.  
     - Maintain communication with different teams across the globe, using English as the principal language. 
-- **Key achievements**
+- _Key accomplishments_
     - Purposed and applied the GeoJSON spec in the codebase, removing duplication on code and standardizing the storage of geo-information. 
     - Created a script for documenting the interface of internal modules, saving 90% of the time for updating the documentation. 
 
 `Jan 2017 - Apr 2019`
 __Software Engineer at [Wizeline](http://wizeline.com/)__, Guadalajara, Mex. 
 
-- **Key responsibilities**
+- _Key responsibilities_
     - Design and implement scalable technical solutions integrated towards a successful product delivery cycle in different client-facing projects. Using technologies such as NodeJS, Serverless, React, and Vue.
     - Maintain communication with different clients and teams across the globe, using English as the principal language. 
 
-- **Key achievements**
+- _Key achievements_
     - Created a module that reduced the code boilerplate while creating new interactions between a web-client and an API, improving the effectivity and velocity of new implementations. 
     - Implemented the bases of the hexagonal architecture to a Serverless-based project, removing over complexity, and enabling the platform to re-use logic among modules.
     - Co-creator and tech lead of Foodie. An internal application to reduce food waste in the company while improves the overall experience around it.
@@ -46,36 +46,36 @@ __Software Engineer at [Wizeline](http://wizeline.com/)__, Guadalajara, Mex.
 `Jul 2016 - Dev 2016` 
 __FullStack Developer at [Millenium studio](https://www.linkedin.com/company/millenium-studio/about/)__, Remote.
 
-- **Key responsibilities**
+- _Key responsibilities_
     - Build the web application of a product that sells private gaming services. 
-- **Key accomplishments**
+- _Key accomplishments_
     - Implementation of the recurrent payment system into the platform. 
 
 `Jan 2016 - Jul 2017`
 __FullStack Developer at City Drive__, Guadalajara, Mexico.
-- **Key responsibilities**
+- _Key responsibilities_
     - Built different internal tools to improve the new drivers training time.
     - Implementation of the third party payment integration. 
 
 `Jul 2015 - Dec 2015`
 __FullStack Developer at [Tejuino](https://tejuino.mx/)__, Guadalajara, Mexico.
-- **Key responsibilities**
+- _Key responsibilities_ 
     - Plan, develop, and deploy pixel-perfect web Applications used to leverage the marketing of different companies.
 
 `Oct 2015 - Apr 2016`
 - __FrontEnd Developer at USA Global Market__, Bogotá, Colombia.
-**Key responsibilities**
+_Key responsibilities_
     - Responsible for creating the administration system and web application for a prepaid payment system delivered to the sewer and electric public services of Bogota and Medellin Colombia.
 
 `Jun 2014, Nov 2015`
 __Co-founder and Principal Engineer at [Bool. Inc](https://github.com/boolinc)__, Bogotá, Colombia.
-- **Key responsibilities**
+- _Key responsibilities_
     - Analyze software requirements, build and deliver web and mobile solutions for different clients as the Colombian Government. 
 
 `Feb 2014 - Jun 2014`
 __Software Developer at [Skaphe](http://www.skaphe.com/)__, Bogotá, Colombia.
 
-- **Key responsibilities**
+- _Key responsibilities_
     - Build a FullStack web application to help a local customer locate their teams on-field and monitor the inventory each team used to execute their assigned tasks.
 
 
@@ -120,12 +120,12 @@ __Co-organizer at [GDLJS](https://www.meetup.com/Guadalajara-JS/)__,
 
 GDLJS is the JavaScript open community in Guadalajara, Mexico. With monthly meetups is recognized as one of the biggest open events in the city with common assistance of more than 100 JavaScripters.
 
-- **Key responsibilities**
+- _Key responsibilities_
     - Coordinate the team to bring the monthly event, including choosing the meetup content, sync with the different sponsors, and verify the accomplishments of the recurrent tasks.  
     - Ideate new events to get more qualified knowledge of the Javascript. 
     - The host of the event. 
 
-- **Key accomplishments**
+- _Key accomplishments_
     - Launched the first event that joined the two most significant Javascript communities in Mexico, the EventLoop and the GDLJS in one place. Hosted in two locations with more than 250 attendees and the participation of recognized engineers in the industry. 
     - Help with the creation of GDLDevComms, the alliance of the city’s communities with the objective of grow the content delivered to the Guadalajara’s technology open communities. 
     - Developed with the GdlDevComms the PosaDev Conf 2017 - 2018, a free yearly one day conference covering general topics in the Technology field. 
