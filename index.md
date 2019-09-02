@@ -53,22 +53,26 @@ __FullStack Developer at [Millenium studio](https://www.linkedin.com/company/mil
 
 `Jan 2016 - Jul 2017`
 __FullStack Developer at City Drive__, Guadalajara, Mexico.
+
 - _Key responsibilities_
     - Built different internal tools to improve the new drivers training time.
     - Implementation of the third party payment integration. 
 
 `Jul 2015 - Dec 2015`
 __FullStack Developer at [Tejuino](https://tejuino.mx/)__, Guadalajara, Mexico.
+
 - _Key responsibilities_ 
     - Plan, develop, and deploy pixel-perfect web Applications used to leverage the marketing of different companies.
 
 `Oct 2015 - Apr 2016`
 - __FrontEnd Developer at USA Global Market__, Bogotá, Colombia.
-_Key responsibilities_
+
+- _Key responsibilities_
     - Responsible for creating the administration system and web application for a prepaid payment system delivered to the sewer and electric public services of Bogota and Medellin Colombia.
 
 `Jun 2014, Nov 2015`
 __Co-founder and Principal Engineer at [Bool. Inc](https://github.com/boolinc)__, Bogotá, Colombia.
+
 - _Key responsibilities_
     - Analyze software requirements, build and deliver web and mobile solutions for different clients as the Colombian Government. 
 
