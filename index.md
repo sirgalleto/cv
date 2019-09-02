@@ -106,8 +106,10 @@ __2nd Place__, Space Apps Challenge Colombia, NASA.
 
 `Spanish`
 __Native speaker__. 
+
 `English`
 __Very good command__. 
+
 `Portuguese` 
 __Basic__. 
 
