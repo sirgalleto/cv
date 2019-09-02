@@ -73,7 +73,7 @@ __Co-founder and Principal Engineer at [Bool. Inc](https://github.com/boolinc)__
     - Analyze software requirements, build and deliver web and mobile solutions for different clients as the Colombian Government. 
 
 `Feb 2014 - Jun 2014`
-__Software Developer at [Skaphe](http://www.skaphe.com/)___, Bogotá, Colombia.
+__Software Developer at [Skaphe](http://www.skaphe.com/)__, Bogotá, Colombia.
 
 - **Key responsibilities**
     - Build a FullStack web application to help a local customer locate their teams on-field and monitor the inventory each team used to execute their assigned tasks.
