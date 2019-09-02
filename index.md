@@ -21,10 +21,10 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 `May 2019 - Present` 
 __Sr. Software Engineer at Skycatch__, Guadalajara, Mex.
 
-- *Key responsibilities
+- **Key responsibilities**
     - Software engineer responsible for the full delivery process of the new era 3D web platform. Including planning across teams, code development of a FullStack solution, and release of development and production platform builds.  
     - Maintain communication with different teams across the globe, using English as the principal language. 
-- Key achievements 
+- **Key achievements**
     - Purposed and applied the GeoJSON spec in the codebase, removing duplication on code and standardizing the storage of geo-information. 
     - Created a script for documenting the interface of internal modules, saving 90% of the time for updating the documentation. 
 
