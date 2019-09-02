@@ -4,7 +4,7 @@ title: Carlos Sebastián Osorio Parada's CV
 ---
 # Carlos Sebastián Osorio Parada
 
-Highly-skilled software engineer with excellent self-learning abilities, 5+ years of experience delivering scalable and high-quality web-applications used by millions of users. Possesses an extensive skill set, including 2+ years of experience working with distributed teams using English as principal language, high ownership, and attention to detail. Ready to make leverage decisions that generate meaningful impact team and organization wise.
+A Highly-skilled software engineer with excellent self-learning abilities, and  5+ years of experience delivering scalable and high-quality web-applications used by millions of users. Possesses an extensive skill set, including 2+ years of experience working with distributed teams using English as principal language, high ownership, and attention to detail. Ready to make leverage decisions that generate meaningful impact team and organization wise.
 
 Co-Creator of Foodie, an internal platform to reduce the food waste in Wizeline. Co-product owner, tech lead, and mentor of a 20+ on-training and newly hired engineers. 
 
@@ -22,7 +22,7 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 __Sr. Software Engineer at Skycatch__, Guadalajara, Mex.
 
 - *Key responsibilities
-    - Software engineer responsible for the new era 3D web platform.
+    - Software engineer responsible for the full delivery process of the new era 3D web platform. Including planning across teams, code development of a FullStack solution, and release of development and production platform builds.  
     - Maintain communication with different teams across the globe, using English as the principal language. 
 - Key achievements 
     - Purposed and applied the GeoJSON spec in the codebase, removing duplication on code and standardizing the storage of geo-information. 
@@ -90,13 +90,13 @@ __Electronic Engineering at Universidad Distrital Francisco José de Caldas__, B
 
 ## Awards 
 
-`Dec 2011`
+`Dec 2011.`
 __Honorable mention at Santo Domingo Sabio School__. Best score in the school at the “Saber 2011” national test.
 
-`Nov 2011`
-__Grand Order of the Founders Cross award__. Golden shield category. "For his dedication and example in the development of academic activities". Decree No. 224 of 2011 Acacías, Meta.
+`Nov 2011.`
+__Grand Order of the Founders Cross award__. Golden shield category. "For his dedication and example in the development of academic activities." Decree No. 224 of 2011 Acacías, Meta.
 
-`Dec 2012`
+`Dec 2012.`
 __2nd Place in XI Internal Programming Marathon__, Universidad Distrital Francisco José de Caldas.
 
 `Apr 2013` 
@@ -110,7 +110,7 @@ __2nd Place__, Space Apps Challenge Colombia, NASA.
 
 ## Extra-curricular Activities 
 
-`Apr 2017 - present`
+`Apr 2017 - Present.`
 __Co-organizer at GDLJS__, 
 
 GDLJS is the JavaScript open community in Guadalajara, Mexico. With monthly meetups is recognized as one of the biggest open events in the city with common assistance of more than 100 JavaScripters.
