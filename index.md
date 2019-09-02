@@ -3,6 +3,7 @@ layout: cv
 title: Carlos Sebastián Osorio Parada's resume 
 ---
 # Carlos Sebastián Osorio Parada
+___ 
 
 A Highly-skilled software engineer with excellent self-learning abilities, and  5+ years of experience delivering scalable and high-quality web-applications used by millions of users. Possesses an extensive skill set, including 2+ years of experience working with distributed teams using English as principal language, high ownership, and attention to detail. Ready to make leverage decisions that generate meaningful impact team and organization wise.
 
