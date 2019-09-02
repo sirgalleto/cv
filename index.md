@@ -65,7 +65,7 @@ __FullStack Developer at [Tejuino](https://tejuino.mx/)__, Guadalajara, Mexico.
     - Plan, develop, and deploy pixel-perfect web Applications used to leverage the marketing of different companies.
 
 `Oct 2015 - Apr 2016`
-- __FrontEnd Developer at USA Global Market__, Bogotá, Colombia.
+__FrontEnd Developer at USA Global Market__, Bogotá, Colombia.
 
 - _Key responsibilities_
     - Responsible for creating the administration system and web application for a prepaid payment system delivered to the sewer and electric public services of Bogota and Medellin Colombia.
