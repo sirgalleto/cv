@@ -19,7 +19,7 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 ## Experience 
 
 `May 2019 - Present` 
-__Sr. Software Engineer at Skycatch__, Guadalajara, Mex.
+__Sr. Software Engineer at [Skycatch](http://skycatch.com/)__, Guadalajara, Mex.
 
 - **Key responsibilities**
     - Software engineer responsible for the full delivery process of the new era 3D web platform. Including planning across teams, code development of a FullStack solution, and release of development and production platform builds.  
@@ -29,7 +29,7 @@ __Sr. Software Engineer at Skycatch__, Guadalajara, Mex.
     - Created a script for documenting the interface of internal modules, saving 90% of the time for updating the documentation. 
 
 `Jan 2017 - Apr 2019`
-__Software Engineer at Wizeline__, Guadalajara, Mex. 
+__Software Engineer at [Wizeline](http://wizeline.com/)__, Guadalajara, Mex. 
 
 - **Key responsibilities**
     - Design and implement scalable technical solutions integrated towards a successful product delivery cycle in different client-facing projects. Using technologies such as NodeJS, Serverless, React, and Vue.
@@ -43,7 +43,7 @@ __Software Engineer at Wizeline__, Guadalajara, Mex.
     - Lecturer of a Javascript academy for +120 people. 
 
 `Jul 2016 - Dev 2016` 
-__FullStack Developer at Millenium studio__, Guadalajara, Mexico.
+__FullStack Developer at [Millenium studio](https://www.linkedin.com/company/millenium-studio/about/)__, Remote.
 
 - **Key responsibilities**
     - Build the web application of a product that sells private gaming services. 
@@ -57,7 +57,7 @@ __FullStack Developer at City Drive__, Guadalajara, Mexico.
     - Implementation of the third party payment integration. 
 
 `Jul 2015 - Dec 2015`
-__FullStack Developer at Tejuino__, Guadalajara, Mexico.
+__FullStack Developer at [Tejuino](https://tejuino.mx/)__, Guadalajara, Mexico.
 - **Key responsibilities**
     - Plan, develop, and deploy pixel-perfect web Applications used to leverage the marketing of different companies.
 
@@ -67,12 +67,12 @@ __FullStack Developer at Tejuino__, Guadalajara, Mexico.
     - Responsible for creating the administration system and web application for a prepaid payment system delivered to the sewer and electric public services of Bogota and Medellin Colombia.
 
 `Jun 2014, Nov 2015`
-__Co-founder and Principal Engineer at Bool. Inc__, Bogotá, Colombia.
+__Co-founder and Principal Engineer at [Bool. Inc](https://github.com/boolinc)__, Bogotá, Colombia.
 - **Key responsibilities**
     - Analyze software requirements, build and deliver web and mobile solutions for different clients as the Colombian Government. 
 
 `Feb 2014 - Jun 2014`
-__Software Developer at Skaphe__, Bogotá, Colombia.
+__Software Developer at [Skaphe](http://www.skaphe.com/)___, Bogotá, Colombia.
 
 - **Key responsibilities**
     - Build a FullStack web application to help a local customer locate their teams on-field and monitor the inventory each team used to execute their assigned tasks.
@@ -81,10 +81,10 @@ __Software Developer at Skaphe__, Bogotá, Colombia.
 ## Education 
 
 ` Nov 2017 - Present` 
-__Computer Science at University of the People__, Online - English
+__Computer Science at [University of the People](https://www.uopeople.edu/)__, Online - English
 
 `Jan 2012 - Jul 2014`
-__Electronic Engineering at Universidad Distrital Francisco José de Caldas__, Bogotá, COL
+__Electronic Engineering at [Universidad Distrital Francisco José de Caldas](https://en.wikipedia.org/wiki/Francisco_Jos%C3%A9_de_Caldas_District_University)__, Bogotá, COL
 
 
 ## Awards 
@@ -110,7 +110,7 @@ __2nd Place__, Space Apps Challenge Colombia, NASA.
 ## Extra-curricular Activities 
 
 `Apr 2017 - Present.`
-__Co-organizer at GDLJS__, 
+__Co-organizer at [GDLJS](https://www.meetup.com/Guadalajara-JS/)__, 
 
 GDLJS is the JavaScript open community in Guadalajara, Mexico. With monthly meetups is recognized as one of the biggest open events in the city with common assistance of more than 100 JavaScripters.
 
