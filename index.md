@@ -28,6 +28,7 @@ __Sr. Software Engineer at [Skycatch](http://skycatch.com/)__, Guadalajara, Mex.
 - _Key accomplishments_
     - Purposed and applied the GeoJSON spec in the codebase, removing duplication on code and standardizing the storage of geo-information. 
     - Created a script for documenting the interface of internal modules, saving 90% of the time for updating the documentation. 
+    - Main collaboration of the re-implementation of the delivery process of the platform with a release cadence of 2 weeks.
 
 `Jan 2017 - Apr 2019`
 __Software Engineer at [Wizeline](http://wizeline.com/)__, Guadalajara, Mex. 
@@ -88,8 +89,8 @@ __Software Developer at [Skaphe](http://www.skaphe.com/)__, Bogotá, Colombia.
 
 ## Education 
 
-` Nov 2017 - Present` 
-__Computer Science at [University of the People](https://www.uopeople.edu/)__, Online - English
+` Oct 2019 - Present` 
+__Computer Science at [University of London](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/)__, Online - English
 
 `Jan 2012 - Jul 2014`
 __Electronic Engineering at [Universidad Distrital Francisco José de Caldas](https://en.wikipedia.org/wiki/Francisco_Jos%C3%A9_de_Caldas_District_University)__, Bogotá, COL
