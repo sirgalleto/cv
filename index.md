@@ -90,7 +90,7 @@ __Software Developer at [Skaphe](http://www.skaphe.com/)__, Bogotá, Colombia.
 ## Education 
 
 ` Oct 2019 - Present` 
-__Computer Science at [University of London](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/)__, Online - English
+__BSc. Computer Science at [University of London](https://london.ac.uk/courses/computer-science)__, Online - English
 
 `Jan 2012 - Jul 2014`
 __Electronic Engineering at [Universidad Distrital Francisco José de Caldas](https://en.wikipedia.org/wiki/Francisco_Jos%C3%A9_de_Caldas_District_University)__, Bogotá, COL
