@@ -140,5 +140,5 @@ GDLJS is the JavaScript open community in Guadalajara, Mexico. With monthly meet
 
 <!-- ### Footer
 
-Last updated: October 2019 -->
+Last updated: October 2020- -->
 
