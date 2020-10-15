@@ -23,12 +23,13 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 __Sr. Software Engineer at [Skycatch](http://skycatch.com/)__, Guadalajara, Mex.
 
 - _Key responsibilities_
-    - Software engineer responsible for the full delivery process of the new era geo-data analysis and 3d maps rendering web platform. Including planning across teams, code development of a FullStack solution, and release of development and production platform builds.  
+    - Full delivery process of the new era geo-data analysis and 3d maps rendering web platform. Including planning across teams, code development of a FullStack solution, and release of development and production platform builds.  
     - Maintain communication with different teams across the globe, using English as the principal language. 
+    - Release master. 
 - _Key accomplishments_
     - Purposed and applied the GeoJSON spec in the codebase, removing duplication on code and standardizing the storage of geo-information. 
     - Created a script for documenting the interface of internal modules, saving 90% of the time for updating the documentation. 
-    - Main collaboration of the re-implementation of the delivery process of the platform with a release cadence of 2 weeks.
+    - Main collaboration of the re-implementation of the delivery process of the platform with a release cadence from every 2 months bi-weeckly.
 
 `Jan 2017 - Apr 2019`
 __Software Engineer at [Wizeline](http://wizeline.com/)__, Guadalajara, Mex. 
